@@ -5,7 +5,7 @@ C Language project for Sistemas Digitales II (ETSIT, UPM, 3rd course of Telecomm
 
 For further information, please read the PDF of the repository "enunciado_coreWatch.pdf"
 
-![alt text](https://github.com/rauleteee/CoreWatch.git/CoreWatch.png)
+![alt text](https://github.com/rauleteee/CoreWatch/blob/master/CoreWatch.png)
 
 
 ## Authors
